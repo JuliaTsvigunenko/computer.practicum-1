@@ -1,0 +1,14 @@
+D:\Цвигуненко Юлия 215 группа\Компьютерный практикум 1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Цвигуненко Юлия 215 группа\Компьютерный практикум 1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Цвигуненко Юлия 215 группа\Компьютерный практикум 1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Цвигуненко Юлия 215 группа\Компьютерный практикум 1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Цвигуненко Юлия 215 группа\Компьютерный практикум 1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Цвигуненко Юлия 215 группа\Компьютерный практикум 1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Цвигуненко Юлия 215 группа\Компьютерный практикум 1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Цвигуненко Юлия 215 группа\Компьютерный практикум 1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Цвигуненко Юлия 215 группа\Компьютерный практикум 1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Цвигуненко Юлия 215 группа\Компьютерный практикум 1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Цвигуненко Юлия 215 группа\Компьютерный практикум 1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Цвигуненко Юлия 215 группа\Компьютерный практикум 1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Цвигуненко Юлия 215 группа\Компьютерный практикум 1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Цвигуненко Юлия 215 группа\Компьютерный практикум 1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
